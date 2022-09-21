@@ -1,3 +1,6 @@
 [submodule "Client-Side"]
 	path = Client-Side
 	url = https://github.com/Bluebberies/my-unsplash-client
+[submodule "Server-side"]
+	path = Server-side
+	url = https://github.com/Bluebberies/my-unsplash-server
